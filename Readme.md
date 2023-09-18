@@ -19,5 +19,18 @@ hayan subido correctamente. Lo hacemos así, ya que cuando realicemos el merge s
 podemos volver a clonar el repositorio sin necesidad de tener que volver a comenzar el ejercicio de 0.
 ![Alt text](Screenshot_2.png)
 
+5.6 – Basándote en el ejemplo que hemos visto anteriormente, realiza un commit no fast-forward en el que mergearemos la rama david02032022 con master.
 
+![Alt text](Screenshot_3.png)
 
+![Alt text](Screenshot_4.png)
+
+5.7 – Visualiza el resultado tanto mediante el comando git log --all --oneline --decorate --graph, como desde el pluging de VSC
+
+- Como vemos cuando hacemos el comando ``git log --all --oneline --decorate --graph`` y como podemos observar tenemos en color verde master que esta fusionado con Ivan180923  y el rojo el remoto.
+![Alt text](Screenshot_5.png)
+
+5.8 – Explica las diferencias entre un merge FF y un merge no FF
+
+- Un merge fast-forward es una fusión simple y lineal que avanza la rama objetivo hasta la punta de la rama que se está fusionando, sin crear un commit de fusión adicional. La historia de la rama fusionada se pierde.
+- Un merge no fast-forward crea un nuevo commit de fusión, preservando la historia de ambas ramas y proporcionando un contexto más detallado sobre las fusiones.
