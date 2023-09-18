@@ -10,4 +10,5 @@ Anadimos el fichero con ``git add readme.md``
 5.3 - Crea una rama con tu nombre y la fecha actual (por ejemplo en mi caso la rama se llamará david02032022) y sitúate en dicha rama
 ![Alt text](Screenshot_10.png)
 
+5.4 – Haz 3 commits en la rama (david02032022)
 
