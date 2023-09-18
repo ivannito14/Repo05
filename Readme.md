@@ -11,4 +11,11 @@ Anadimos el fichero con ``git add readme.md``
 ![Alt text](Screenshot_10.png)
 
 5.4 – Haz 3 commits en la rama (david02032022)
+![](Screenshot_1.png)
+- Hacemos los 3 commits
+
+5.5 – En este caso, antes de hacer el merge sube ambas ramas al repositorio remoto. Verifica que se
+hayan subido correctamente. Lo hacemos así, ya que cuando realicemos el merge si nos equivocas
+podemos volver a clonar el repositorio sin necesidad de tener que volver a comenzar el ejercicio de 0.
+
 
